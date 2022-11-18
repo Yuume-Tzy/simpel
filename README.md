@@ -1,0 +1,2 @@
+# simpel
+Perintah Ketik Sendiri
